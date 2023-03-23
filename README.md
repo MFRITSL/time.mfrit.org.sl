@@ -11,7 +11,7 @@ Make sure to install the dependencies:
 
 ```bash
 # yarn
-yarn installl
+yarn install
 
 # npm
 npm install
