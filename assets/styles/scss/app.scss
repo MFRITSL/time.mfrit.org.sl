@@ -1,0 +1,43 @@
+@import "../scss/app-variables.scss";
+@import "../scss/fonts.scss";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', Arial, sans-serif;
+  font-size: 1rem;
+  color: #000000;
+  background-color: #FFFFFF;
+  position: relative;
+  min-height: 100%;
+} 
+
+/*X-Small devices (portrait phones, less than 576px)*/
+/* No media query for `xs` since this is the default in Bootstrap*/
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {  }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {  }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { 
+
+ }
+
+/* X-Large devices (large desktops, 1200px and up)*/
+
+
+/* XX-Large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+ }
+
+/* XX-Large devices (larger desktops, 2560px and up)*/
+@media (min-width: 2560px) { 
+ 
+ }

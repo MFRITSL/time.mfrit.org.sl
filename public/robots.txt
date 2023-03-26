@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://time.mfrit.org.sl/sitemap.xml
